@@ -17,42 +17,58 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently pursuing the Bacholor's in Financial Technology in SAFTI, Shenzhen University. 
+Up to now, I have one internship experience working as an investment analyst in a subsidiary of Frost&Sullivan.
+I have been deeply involved in 2 innovative or research projects, working as a core member and the leader respectively. 
+Currently, my interest includes portfolio strategy, behavioral finance and AI application in financial industry. I am now working on a paper of a research on IPO performance analysis with other 3 team members.
+As for extracurricular activities, I have attended the summer school of University of Cambridge focusing on corporate finance and game theories. As an undergraduate, I have worked in the Student Union for 1 year, as the leader of the college volunteer department.
+In the short term, I am seeking opportunities to furtherly study in Europe for a master's degree in finance.
+Welcome to connect me through my LinkedIn [Shulin (Linda) Ho](https://www.linkedin.com/in/syulam-ho/) or email me at shulin.he@audencia.com
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Currently pursuing the Bachelor's in Financial Technology, and planning to complete Master's Degree in Europe.
+  Core expertise:
+- Investment Research: Tracking IPO trends, tech sector financing, and market shifts. Conducting desk research and writing high-impact articles.
+- Data Analysis & Programming: Proficient in Python, utilizing libraries such as pandas, numpy, and matplotlib to process and analyze large datasets.
+- Project Management: Leading cross-functional projects, coordinating team efforts, and managing timelines to ensure project success.
+- Community Engagement & Content Creation: Managing online communities, fostering investor relationships, and producing high-visibility content for business growth.
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# ⭐ News
+- I am going to study in Universität Zürich (UZH) in 2025 fall semester as a visiting student!
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.09 - 2026.06 (now)*, Undergraduate, Shenzhen University, Shenzhen Audencia Financial Technology Institute (SAFTI). 
+- *2019.09 - 2022.06*, Secondary school, Sun Yat-sen Memmorial School, Zhongshan
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+*2024.07 - 2024.10* **Investment Research Analyst** Sullivan Jieli (Shenzhen) Cloud Technology Limited, China
+- Keeping an eye on international business news on a daily basis, and taking the responsibility of collecting data and writing articles based on business insights. 
+- Providing consulting services to customers to enhance corporate influence and help with product operation. 
+- Advanced communication and analysis skills gained from this job.
+
+# 📝 Projects 
+**Machine Learning for IPO Performance Analysis in Chinese Mainland** (as a leader, still working on it)
+*2024.10 - now*
+- Taking the responsibility of reserach design, data processing, analysis, and model training. 
+- Utilization of Python to clean and organize data, analyzing and forecasting the changes of value of companies IPO in Chinese mainland with random forest classification and regression models. 
+- Machine learning and AI algorithms gained from the experience.
+**Digital Platform Gathering ESG Investment Data**
+*2023.10 - 2024.06*
+- Responsible for collecting business news with web crawlers in a legal way, and using Python to process the text data. 
+- Basic text processing, web crawler and data analysis skills gained from the project. 
+
+# 🔥 Activities
+**University of Cambridge Summer School**
+*2023.08*
+- I took courses about basic game theory and financial economics and analyzing the differences that stable coins and other digital coins made and were about to making to the economic world with the study group. 
+- Cross-cultural communication and self-learning skills got advanced in this program.
+**Leader of the College Volunteer Group**
+*2023.05 - 2024.06*
+- Responsible for managing voluntary routines in the faculty, including volunteer training, awarding, recruiting and organizing several events (supported teaching activities, orientations, etc.) 
+- Good coordination, communication and time-managing skills gained through these works.
+
+# 💬 Languages and Skills
+- Mandarin (native speaker), English (advanced, IELTS 7.5), French (beginner)
+- C/C++, Python, R, Linux, git and Microsoft Office. Proficiency in data analysis, machine learning models and computer network
+
+# 🎖 Honors and Awards
+- *2024.10* The 3rd Student Cadre Scholarship, Shenzhen University 
