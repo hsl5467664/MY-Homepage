@@ -17,21 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am currently pursuing the Bacholor's in Financial Technology in SAFTI, Shenzhen University. 
-Up to now, I have one internship experience working as an investment analyst in a subsidiary of Frost&Sullivan.
+Hi! I am currently pursuing the Bacholor's in **Financial Technology** in SAFTI, Shenzhen University. 
+Up to now, I have 1 internship experience working as an investment analyst in a subsidiary of Frost&Sullivan.
 I have been deeply involved in 2 innovative or research projects, working as a core member and the leader respectively. 
-Currently, my interest includes portfolio strategy, behavioral finance and AI application in financial industry. I am now working on a paper of a research on IPO performance analysis with other 3 team members.
+Currently, my interest includes behavioral finance, trading strategy and AI application in financial industry. I am now working on a paper of a research on IPO performance analysis with other 3 team members.
 As for extracurricular activities, I have attended the summer school of University of Cambridge focusing on corporate finance and game theories. As an undergraduate, I have worked in the Student Union for 1 year, as the leader of the college volunteer department.
 In the short term, I am seeking opportunities to furtherly study in Europe for a master's degree in finance.
-I am a person who always have international attitude and open to diversity.
+I am a person who always have **international attitude** and open to **diversity**.
 Welcome to connect me through my LinkedIn [Shulin (Linda) Ho](https://www.linkedin.com/in/syulam-ho/) or email me at shulin.he@audencia.com
-
-Currently pursuing the Bachelor's in Financial Technology, and planning to complete Master's Degree in Europe.
-  Core expertise:
-- Investment Research: Tracking IPO trends, tech sector financing, and market shifts. Conducting desk research and writing high-impact articles.
-- Data Analysis & Programming: Proficient in Python, utilizing libraries such as pandas, numpy, and matplotlib to process and analyze large datasets.
-- Project Management: Leading cross-functional projects, coordinating team efforts, and managing timelines to ensure project success.
-- Community Engagement & Content Creation: Managing online communities, fostering investor relationships, and producing high-visibility content for business growth.
 
 # ⭐ News
 - I am going to study in Universität Zürich (UZH) in 2025 fall semester as a visiting student!
